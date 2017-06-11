@@ -1,0 +1,10 @@
+Frango grelhado
+ 1 2.00 1000 LIMPEZA LIMPEZA 3 5 17 2 3 
+Arroz frito
+ 2 2.45 23 que ALIMENTAÇÃO 3 5 6 7 1 
+Mas o que diabos
+ 4 4.20 15 que ELETRÔNICO 2 5 6 7 8 
+mais um teste
+ 889 2.40 20 que ALNP 2 3 5 6 7 
+alou opa
+ 123 30.32 1234 arroz ALP 1 12 1234 1 2 

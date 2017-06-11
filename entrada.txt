@@ -1,0 +1,8 @@
+Frango grelhado
+1 2.00 10 seila COMID 3 5 17 2 3 
+Arroz frito
+2 2.45 23 que COMID 3 5 6 7 1
+Mas o que diabos
+4 4.20 15 que BOST 2 5 6 7 8
+mais um teste
+889 2.4 20 que trist 2 3 5 6 7
