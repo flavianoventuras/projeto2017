@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include "funcoes_ppm.h"
 #include "funcoes_bmp.h"
-
+// Testando o github 
 
 int main(int argc, char *argv[]){
 char imagem[20];
